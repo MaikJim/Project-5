@@ -1,0 +1,19 @@
+{
+  "name": "project-5",
+  "version": "1.0.0",
+  "description": "It's a project where we query the characters from the Rick and Morty API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaikJim/Project-5.git"
+  },
+  "author": "Maikol Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaikJim/Project-5/issues"
+  },
+  "homepage": "https://github.com/MaikJim/Project-5#readme"
+}
